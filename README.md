@@ -1,7 +1,6 @@
-Small script to get pi number
-
-Install:
+Небольшой скрипт для расчёта числа ПИ
+Установаа:
  ```apt install python3```
  ```pip install mpmath```
-Use:
+Использование:
  ```python3 pimath.py <lenght>```
